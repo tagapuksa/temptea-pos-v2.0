@@ -6,7 +6,6 @@
 
 ---
 
-# AI Prompt
 
 **Prompt Used:**
 
