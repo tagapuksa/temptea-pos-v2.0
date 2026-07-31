@@ -1,4 +1,0 @@
- Rome jean Quistorio - builder
- I actively use GitHub to build and maintain software projects. My repositories showcase application development, feature implementation, bug fixes, and continuous improvements. I use Git for version control and regularly commit updates while documenting my work through README files.
- 
- 
