@@ -397,3 +397,4 @@ const tdS = { padding: '10px' };
 const labelS = { fontSize: '11px', color: '#64748b', display: 'block', margin: '10px 0 5px 0' };
 
 export default App;
+..
