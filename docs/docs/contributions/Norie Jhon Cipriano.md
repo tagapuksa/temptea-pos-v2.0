@@ -1,4 +1,4 @@
-Norie Jhon Cipriano - Scribe
+Norie Jhon Cipriano
 Scribe - Intelligent Code Context for AI Agents
 CI codecov Crates.io npm License
 
